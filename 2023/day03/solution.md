@@ -36,5 +36,9 @@
    
 ![3 5](https://user-images.githubusercontent.com/76457594/210311435-e6f8aa0c-dc0c-44a6-84e7-6e4c91e4ea87.png)
 
-
+6.Add content in devops.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.
+```
+```echo -e "Apple\nMango\nBanana\nCherry\nKiwi\nOrange\nGuava" >> devops.txt```
+``` 
+ 
  
